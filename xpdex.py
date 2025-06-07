@@ -7,7 +7,7 @@ import struct
 import os
 import sys
 
-VERSION = '0.1.3'
+VERSION = '0.9.0'
 COPYRIGHT = "Copyright (c) 2023-2025 ArctanX"
 
 MAX_BANK = 86               # 0-85
